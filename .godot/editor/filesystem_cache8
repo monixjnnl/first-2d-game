@@ -1,0 +1,105 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739951935
+icon.svg::CompressedTexture2D::2630597339416241529::1739863149::1739863162::1::::<><>::
+::res://Art/::1739863273
+::res://Art/Sprout Lands - Sprites - Basic pack/::1739861018
+read_me.txt::TextFile::-1::1719842470::0::1::::<><>::
+::res://Art/Sprout Lands - Sprites - Basic pack/Characters/::1739863332
+Basic Charakter Actions.png::CompressedTexture2D::8992805116469797608::1646974740::1739863332::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::6085770532906343469::1721895650::1739863332::1::::<><>::
+Egg_And_Nest.png::CompressedTexture2D::7801097082840526969::1688749316::1739863331::1::::<><>::
+Free Chicken Sprites.png::CompressedTexture2D::2528563461436700779::1686858318::1739863331::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::5136921855894911345::1642799610::1739863331::1::::<><>::
+Tools.png::CompressedTexture2D::133197778260003739::1719557742::1739863331::1::::<><>::
+::res://Art/Sprout Lands - Sprites - Basic pack/Objects/::1739863332
+Basic_Furniture.png::CompressedTexture2D::4371733861129264358::1640129606::1739863331::1::::<><>::
+Basic_Grass_Biom_things.png::CompressedTexture2D::1375841287160076625::1641341964::1739863331::1::::<><>::
+Basic_Plants.png::CompressedTexture2D::6378295379997615050::1640127244::1739863331::1::::<><>::
+Basic_tools_and_meterials.png::CompressedTexture2D::9005581853751875857::1646975288::1739863331::1::::<><>::
+Chest.png::CompressedTexture2D::595212385239228888::1643071886::1739863331::1::::<><>::
+Egg_item.png::CompressedTexture2D::7458399758835877409::1686859278::1739863331::1::::<><>::
+Free_Chicken_House.png::CompressedTexture2D::948550944736693958::1688749142::1739863331::1::::<><>::
+Paths.png::CompressedTexture2D::5409333579746201378::1642798764::1739863331::1::::<><>::
+Simple_Milk_and_grass_item.png::CompressedTexture2D::741513941941291627::1642879086::1739863331::1::::<><>::
+Wood_Bridge.png::CompressedTexture2D::911035057055843229::1642798830::1739863331::1::::<><>::
+::res://Art/Sprout Lands - Sprites - Basic pack/Sprout Lands color pallet/::1739863331
+Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::4191085512990140433::1689696158::1739863331::1::::<><>::
+Sprout Lands defautlt palette.png::CompressedTexture2D::6281550854206916648::1689696086::1739863331::1::::<><>::
+::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/::1739863332
+Bitmask references 1.png::CompressedTexture2D::4826439858551467343::1702865742::1739863331::1::::<><>::
+Bitmask references 2.png::CompressedTexture2D::8054436518690793270::1702865746::1739863332::1::::<><>::
+Doors.png::CompressedTexture2D::7715906720096200807::1721541166::1739863332::1::::<><>::
+Fences.png::CompressedTexture2D::2163228001886349153::1640128532::1739863332::1::::<><>::
+Grass.png::CompressedTexture2D::3945241496842936192::1702880452::1739863332::1::::<><>::
+Hills.png::CompressedTexture2D::4224536689328745589::1702880062::1739863332::1::::<><>::
+Tilled_Dirt.png::CompressedTexture2D::3288523635488223269::1719666018::1739863332::1::::<><>::
+Tilled_Dirt_v2.png::CompressedTexture2D::8944766913365501868::1714477808::1739863332::1::::<><>::
+Tilled_Dirt_Wide.png::CompressedTexture2D::563095161198936272::1719665978::1739863332::1::::<><>::
+Tilled_Dirt_Wide_v2.png::CompressedTexture2D::8688540066172822535::1719666584::1739863332::1::::<><>::
+Water.png::CompressedTexture2D::2738614701608175239::1640128122::1739863332::1::::<><>::
+Wooden_House_Roof_Tilset.png::CompressedTexture2D::7184638087593670188::1721540844::1739863332::1::::<><>::
+Wooden_House_Walls_Tilset.png::CompressedTexture2D::7273991121727728021::1721113388::1739863332::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/::1739861059
+read_me.txt::TextFile::-1::1719842546::0::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/emojis-free/::1739863331
+Emoji_Spritesheet_Free.png::CompressedTexture2D::4948690772292055530::1722322710::1739863331::1::::<><>::
+speech_bubble_grey.png::CompressedTexture2D::4171609365932793217::1720350958::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/::1739863332
+Inventory_Blocks_Spritesheet.png::CompressedTexture2D::5601695192387267604::1721634936::1739863332::1::::<><>::
+inventory_example.png::CompressedTexture2D::7184270279583132879::1720354042::1739863332::1::::<><>::
+inventory_example_2.png::CompressedTexture2D::7161486908161054302::1720354074::1739863332::1::::<><>::
+inventory_example_with_slots.png::CompressedTexture2D::4191032379296751803::1720353686::1739863332::1::::<><>::
+inventory_example_with_slots_2.png::CompressedTexture2D::6363476757722805108::1721637826::1739863332::1::::<><>::
+Inventory_Herat_Spritesheet.png::CompressedTexture2D::7823347073571991669::1721895502::1739863332::1::::<><>::
+inventory_Light_example.png::CompressedTexture2D::7717136685098293764::1721638344::1739863331::1::::<><>::
+inventory_Light_example_2.png::CompressedTexture2D::8093270004584614194::1721638362::1739863331::1::::<><>::
+inventory_Light_example_with_slots.png::CompressedTexture2D::2875214849237892999::1721638168::1739863331::1::::<><>::
+Inventory_Light_example_with_slots_2.png::CompressedTexture2D::2050664965162654614::1721637860::1739863331::1::::<><>::
+Inventory_Light_Herat_Spritesheet.png::CompressedTexture2D::5992654053714646465::1721895500::1739863331::1::::<><>::
+Inventory_Spritesheet.png::CompressedTexture2D::8263900220808789080::1721896478::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/weather/::1739863332
+Weather_Icons_smal_freel.png::CompressedTexture2D::3970798435307293035::1722583158::1739863332::1::::<><>::
+Weather_UI_Free.png::CompressedTexture2D::5093143840179075342::1722583284::1739863332::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/fonts/::1739863331
+pixel-letters-7-8x14-preview.png::CompressedTexture2D::1616638393058360606::1718881790::1739863331::1::::<><>::
+pixel-letters-7-8x14.png::CompressedTexture2D::1122535874414830629::1717480710::1739863331::1::::<><>::
+pixelFont-7-8x14-sproutLands.ttf::FontFile::5236163645701573985::1718702410::1739863330::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/::1739863331
+Setting menu.png::CompressedTexture2D::9186546488494807034::1647151552::1739863331::1::::<><>::
+Sprite sheet for Basic Pack.png::CompressedTexture2D::1326077887739959801::1657984796::1739863331::1::::<><>::
+UI Big Play Button.png::CompressedTexture2D::2106215496085740796::1647155532::1739863331::1::::<><>::
+UI Settings Buttons.png::CompressedTexture2D::5604491668314835666::1647155278::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/::1739863331
+Small Square Buttons.png::CompressedTexture2D::3497955346347128143::1657979618::1739863331::1::::<><>::
+Square Buttons 19x26.png::CompressedTexture2D::6343499316354689190::1657979582::1739863330::1::::<><>::
+Square Buttons 26x19.png::CompressedTexture2D::4305160298398057014::1657979518::1739863330::1::::<><>::
+Square Buttons 26x26.png::CompressedTexture2D::4549864541203769187::1719557086::1739863330::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/::1739863331
+dialog box big.png::CompressedTexture2D::6730179854721494446::1657959468::1739863330::1::::<><>::
+dialog box character finished talking click to continue indicator - spritesheet .png::CompressedTexture2D::506515687466398102::1657959110::1739863330::1::::<><>::
+dialog box medium.png::CompressedTexture2D::3160853864778856165::1657959436::1739863330::1::::<><>::
+dialog box small.png::CompressedTexture2D::8269686701875628625::1657959400::1739863331::1::::<><>::
+dialog box.png::CompressedTexture2D::3725887684646592214::1657959370::1739863331::1::::<><>::
+Premade dialog box  big.png::CompressedTexture2D::875547047337955409::1657958448::1739863331::1::::<><>::
+Premade dialog box medium.png::CompressedTexture2D::6393430406108018665::1657958346::1739863331::1::::<><>::
+Premade dialog box small.png::CompressedTexture2D::1738792655999594348::1657958370::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes/::1739863330
+Teemo Basic emote animations sprite sheet.png::CompressedTexture2D::3611239012427858042::1657981952::1739863330::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/::1739863331
+All Icons.png::CompressedTexture2D::8360138798730204088::1657984706::1739863331::1::::<><>::
+white icons.png::CompressedTexture2D::1024869371683793866::1657984720::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/::1739863331
+Small Happines-Sadness icons.png::CompressedTexture2D::6406501158129933504::1657978780::1739863331::1::::<><>::
+Special Icons.png::CompressedTexture2D::1320179435251322508::1657984680::1739863331::1::::<><>::
+::res://Art/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/::1739863331
+Catpaw holding Mouse icon.png::CompressedTexture2D::1630844775949607785::1657979238::1739863331::1::::<><>::
+Catpaw Mouse icon.png::CompressedTexture2D::6905053142818495282::1657979220::1739863331::1::::<><>::
+Catpaw pointing Mouse icon.png::CompressedTexture2D::4980049417011729457::1657979208::1739863331::1::::<><>::
+Triangle Mouse icon 1.png::CompressedTexture2D::7322150830195627252::1657979024::1739863331::1::::<><>::
+Triangle Mouse icon 2.png::CompressedTexture2D::4042571678977505100::1657979040::1739863331::1::::<><>::
+Triangle Mouse icon 3.png::CompressedTexture2D::5397953046814842720::1657979050::1739863331::1::::<><>::
+::res://Characters/::1739875075
+player_cat.gd::GDScript::-1::1739873779::0::1::::<>CharacterBody2D<>::
+player_cat.tscn::PackedScene::1103584926662073963::1739875075::0::1::::<><>::uid://csx80s1k7x0rp::::res://Art/Sprout Lands - Sprites - Basic pack/Characters/Basic Charakter Spritesheet.png<>res://Characters/player_cat.gd
+::res://Levels/::1739875075
+game_levels.tscn::PackedScene::209582272837982783::1739875075::0::1::::<><>::uid://pyt5agbaevn4::::res://Characters/player_cat.tscn<>uid://bwhds0aku7vfc::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png<>uid://b1gnrcm82hpyb::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png<>uid://bm38reoba7ybd::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled_Dirt.png<>uid://bfaut4ejpbm68::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png<>uid://damj67gt5h1j1::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden_House_Roof_Tilset.png<>uid://dbvttod25ft6d::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden_House_Walls_Tilset.png<>uid://dh6v4d73utt7d::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Doors.png<>uid://525bw2m5dieb::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Fences.png
